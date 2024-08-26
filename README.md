@@ -4,6 +4,9 @@ HR Employee Survey
 
 ![image](https://github.com/user-attachments/assets/466bf530-eb3e-4726-a9be-dbe1a8ba642b)
 
+Employee Data Breakdown 
+
+![image](https://github.com/user-attachments/assets/83394f73-970c-4982-b439-83ff95f4d176)
 
 Best Seller Books Dashboard
 
